@@ -34,6 +34,7 @@ I love traveling, especially long-term travel. there are lots of must-have items
 - [ ] Shampoo
 - [ ] Sunscreen
 - [ ] Sun protection clothing
+- [ ] Facial mask
 
 ### Electronic devices and accessories
 
